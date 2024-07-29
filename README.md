@@ -1,7 +1,3 @@
-Here's an updated README file including instructions on how to set up and run the Flask application:
-
----
-
 # Car Price Prediction
 
 This project aims to develop a machine learning model to predict the price of used cars based on various features. The dataset includes information about different cars sold across various locations in India.
@@ -159,5 +155,3 @@ A Flask web application has been created to provide an interactive interface for
 
 3. **Past Predictions**:
    The application also displays a list of past predictions for reference.
-
----
