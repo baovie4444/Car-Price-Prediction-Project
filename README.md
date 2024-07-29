@@ -161,5 +161,3 @@ A Flask web application has been created to provide an interactive interface for
    The application also displays a list of past predictions for reference.
 
 ---
-
-This README provides an overview of the Car Price Prediction project, outlines its purpose, methodology, results, application setup, and usage instructions.
