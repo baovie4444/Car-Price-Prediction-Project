@@ -122,6 +122,9 @@ Suggestions for future research:
 
 A Flask web application has been created to provide an interactive interface for predicting car prices based on user input.
 
+
+[Ảnh chụp màn hình 2024-07-29 025219](https://github.com/user-attachments/assets/540e3f35-c633-41c1-9de7-68243a73abb0)
+
 ### Setup Instructions
 
 1. **Clone the Repository**:
@@ -140,7 +143,7 @@ A Flask web application has been created to provide an interactive interface for
    Ensure the trained model (`XGBoost_model.pkl`) is in the project directory.
 
 4. **Run the Flask Application**:
-   ```bash
+    ```bash
    python app.py
    ```
 
